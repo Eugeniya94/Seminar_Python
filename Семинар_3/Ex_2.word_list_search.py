@@ -30,3 +30,5 @@ def list_search(my_list, word_key):
 res = list_new(20, 'abc')
 print(res) 
 list_search(res, input())       
+
+
